@@ -13,6 +13,15 @@ Fork and clone this repository:
 ```
 git clone https://github.com/<your name>/Tailwind-Project.git
 ```
+Change the current directory:
+```
+cd Tailwind-Project
+```
+Install the dependencies:
+```
+npm ci
+```
+Install live server to see the project output.
 
 # Resources
 [Tailwind CSS ](https://tailwindcss.com/)
